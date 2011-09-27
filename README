@@ -1,0 +1,6 @@
+#   Dinfo script is the first 'graduate' from the dukescript volatile
+#   experiment. This script is simply an info script. Similar to what 'factoids'
+#   are in supybot or 'egglearn' for eggdrop. The public '.info' command has
+#   list and retrieval capabilities while the dcc/partyline command '.dinfo'
+#   allows owners to add, remove, list info entries as well as backup and
+#   restore the info database to/from file.
