@@ -17,7 +17,7 @@ namespace eval dinfo {
 #
 #   Dinfo script v1.1 (6-27-11)
 #   by: <lee8oi@github><lee8oiOnfreenode>
-#   github link: https://github.com/lee8oi/eggdrop/blob/master/dinfo.tcl
+#   github link: https://github.com/lee8oi/dinfo/blob/master/dinfo.tcl
 #
 #   Dinfo script is the first 'graduate' from the dukescript volatile
 #   experiment. This script is simply an info script. Similar to what 'factoids'
